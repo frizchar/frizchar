@@ -5,7 +5,7 @@ __I'm Harry__ - I'm an enthusiastic data professional, always keen on exploring 
 - 👯 tools I've worked with: _SQL_, _Oracle_, _Python_, _R_, _Power BI_, _SAP Business Objects/Designer_, _Tableau_, _Alteryx_, _Excel_, _Gephi_, _MATLAB_, _Mathematica_, _Rapidminer_, _SQL Developer_, _PyCharm_, _RStudio_, _Jupyter_, _Google Colab_, _ChatGPT_, _perplexity_
 - 📫 how to reach me: cchrysanth@gmail.com, [LinkedIn](https://www.linkedin.com/in/cchrysanth/)
 
- [![Status Online](https://img.shields.io/badge/Status-Online-green.svg)](https://shields.io)
+ [![Status Online](https://img.shields.io/badge/Status-Online-blue.svg)](https://shields.io)
 
 <!--
 **frizchar/frizchar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
