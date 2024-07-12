@@ -4,10 +4,11 @@ __I'm Harry__ - I'm an enthusiastic data professional, always keen on exploring 
 - 💬 ask me about: _data analytics_, _ml_, _time-series forecasting_, _dynamical systems & chaos theory_
 - 👯 tools I've worked with: _SQL_, _Oracle_, _Python_, _R_, _Power BI_, _SAP Business Objects/Designer_, _Tableau_, _Alteryx_, _Excel_, _Gephi_, _MATLAB_, _Mathematica_, _Rapidminer_, _SQL Developer_, _PyCharm_, _RStudio_, _Jupyter_, _Google Colab_, _LaTeX_, _ChatGPT_, _perplexity_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cchrysanth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cchrysanth/) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19903230/harry)
+
 <!--
 
-[![Status](https://img.shields.io/badge/Status-{{ status | downcase }}-{{ status | downcase == 'online' ? 'green' : 'red' }}.svg)](https://shields.io)
+[![Status](https://img.shields.io/badge/Status-{{ status | downcase }}-{{ status | downcase == 'online' ? 'green' : 'red' }}.svg)](https://shields.io) 
 
 [![Status](https://img.shields.io/badge/Status-Unknown-yellow.svg)](https://shields.io)
 
