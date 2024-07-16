@@ -1,7 +1,7 @@
 ## Hi there, I'm Harry
 Experienced data professional, always keen on exploring new ideas and turning them into tangible projects... 
 - 🔭 currently working on __healthcare analytics + ml__
-- 💬 ask me about: _data analytics_, _ml_, _time-series forecasting_, _dynamical systems & chaos theory_
+- 💬 ask me about: _data analytics_, _data modeling_, _ml_, _predictive analytics_, _dynamical systems & chaos theory_
 - 👯 tools I've worked with: ``` SQL, Oracle, Python, R, Power BI, SAP Business Objects/Designer/CMC, Tableau, Alteryx, Excel, Gephi, MATLAB,
 Mathematica, Rapidminer, SQL Developer, PyCharm, RStudio, Jupyter, Google Colab, LaTeX, ChatGPT, perplexity```
 
