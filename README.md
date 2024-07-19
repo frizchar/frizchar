@@ -2,7 +2,7 @@
 Experienced data professional, always keen on exploring new ideas and turning them into tangible projects... 
 - 💻 currently working on __healthcare analytics + ml__
 - 💬 ask me about: ```data analytics, data modeling, ml, dynamical systems, chaos theory, astrophysics```
-- 🔭 analytics domains I'm focusing on: ```crm, marketing, competitive, product, predictive```
+- 🧐 analytics domains I'm focusing on: ```crm, marketing, competitive, product, predictive```
 - 🛠️ tools I've worked with: ``` SQL, Oracle, Python, R, Power BI, SAP Business Objects/Designer/CMC, Tableau, Alteryx, Excel, Gephi, MATLAB,
 Mathematica, Rapidminer, SQL Developer, PyCharm, RStudio, Jupyter, Google Colab, LaTeX, ChatGPT, perplexity```
 
