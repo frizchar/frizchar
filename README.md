@@ -11,8 +11,8 @@ Mathematica, Rapidminer, SQL Developer, PyCharm, RStudio, Jupyter, Google Colab,
 <!--
 ## Hi there, I'm Harry 👋
 
-_SQL_, _Oracle_, _Python_, _R_, _Power BI_, _SAP Business Objects/Designer_, _Tableau_, _Alteryx_, _Excel_, _Gephi_, _MATLAB_,
-_Mathematica_, _Rapidminer_, _SQL Developer_, _PyCharm_, _RStudio_, _Jupyter_, _Google Colab_, _LaTeX_, _ChatGPT_, _perplexity_
+_SQL_, _Python_, _R_, _Power BI_, _SAP Business Objects/Designer_, _Tableau_, _Alteryx_, _Oracle_, _MySQL_, _sqlite3_, _Excel_, _Gephi_, 
+_MATLAB_, _Mathematica_, _Rapidminer_, _SQL Developer_, _PyCharm_, _RStudio_, _Jupyter_, _Google Colab_, _LaTeX_, _ChatGPT_, _perplexity_
 
 [![Status](https://img.shields.io/badge/Status-{{ status | downcase }}-{{ status | downcase == 'online' ? 'green' : 'red' }}.svg)](https://shields.io) 
 
