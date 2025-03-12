@@ -1,5 +1,5 @@
 ## Hi there, I'm Harry
-Experienced data professional, always keen on exploring new ideas and turning them into tangible projects... 
+Experienced data professional, consistently eager to explore new ideas and develop them into innovative solutions 
 - 💻 currently working on __healthcare analytics + ml__
 - 💬 ask me about: ```data analytics, data modeling, ml, dynamical systems, chaos theory```
 - 🧐 areas of interest in analytics: ```crm, marketing, competitive, product, predictive```
