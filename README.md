@@ -1,6 +1,6 @@
 ## Hi there, I'm Harry
 Experienced data professional, consistently eager to explore new ideas and develop them into innovative solutions 
-- 💻 :pc: currently working on __healthcare analytics__
+- 💻 currently working on __healthcare analytics__
 - :speech_balloon: ask me about: ```data modelling, data analytics, machine learning, dynamical systems, chaos theory```
 - :mag: areas of interest in analytics: ```pricing, crm, marketing, competitive, product, predictive```
 - 🛠️ tools I've worked with: ``` SQL, Python, R, Power BI, SAP Business Objects, Tableau, Alteryx, Oracle, Excel,
