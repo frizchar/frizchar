@@ -2,7 +2,7 @@
 Data professional, eager to explore ideas and develop them into solutions 
 - 💻 currently working on __healthcare analytics__
 - :speech_balloon: ask me about: ```data modelling, data analytics, machine learning, dynamical systems, chaos theory```
-- :mag: areas of interest in analytics: ```pricing, crm, marketing, competitive, product, predictive```
+- :mag: areas of interest in analytics: ```sales, pricing, crm, marketing, competitive, product, predictive```
 - 🛠️ tools I've worked with: ``` SQL, Python, R, Power BI, SAP Business Objects [webi, universe designer], SAP Analysis for Office, Tableau, Oracle, Alteryx, Excel,
 Gephi, MATLAB, Mathematica, Rapidminer, Oracle SQL Developer, PyCharm, RStudio, Jupyter, Google Colab, LaTeX, ChatGPT, perplexity```
 
