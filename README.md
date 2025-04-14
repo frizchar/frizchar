@@ -3,7 +3,7 @@ Data professional, eager to explore ideas and develop them into solutions
 - 💻 currently working on __healthcare analytics__
 - :speech_balloon: ask me about: ```data modelling, data analytics, machine learning, dynamical systems, chaos theory```
 - :mag: areas of interest in analytics: ```sales, pricing, crm, marketing, competitive, product, predictive```
-- 🛠️ tools I've worked with: ``` SQL, Python, R, Power BI, SAP Business Objects [webi, universe designer], SAP Analysis for Office, Tableau, Oracle, Alteryx, Excel,
+- 🛠️ tools I've worked with: ``` SQL, Python, R, Power BI, SAP BusinessObjects, SAP Analysis for Office, Tableau, Oracle, Alteryx, Excel,
 Gephi, MATLAB, Mathematica, Rapidminer, Oracle SQL Developer, PyCharm, RStudio, Jupyter, Google Colab, LaTeX, ChatGPT, perplexity```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cchrysanth/) [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19903230/harry)
