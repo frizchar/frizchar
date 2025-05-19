@@ -6,7 +6,7 @@ Data professional, eager to explore ideas and develop them into solutions
 - 🛠️ tools I've worked with: ``` SQL, Python, Power BI, Tableau, SAP BusinessObjects, SAP Analysis for Office, Oracle, R, Alteryx, Excel,
 Gephi, MATLAB, Mathematica, Rapidminer, Oracle SQL Developer, PyCharm, RStudio, Jupyter, Google Colab, LaTeX, ChatGPT, perplexity```
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/cchrysanth/) [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/19903230/harry) [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/profile/charalampos.chrysanthakopoulos/vizzes) [![Streamlit Community](https://img.shields.io/badge/Streamlit%20Community-FF4B4B?logo=streamlit&logoColor=white&style=flat)](https://castoma.streamlit.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/cchrysanth/) [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/19903230/harry) [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau%20Community-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/profile/charalampos.chrysanthakopoulos/vizzes) [![Streamlit app](https://img.shields.io/badge/Streamlit%20App-FF4B4B?logo=streamlit&logoColor=white&style=flat)](https://castoma.streamlit.app/)
 
 
 <!--
