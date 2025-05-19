@@ -1,7 +1,6 @@
 <!-- https://dev.to/anmolbaranwal/make-github-readme-like-pro-15am -->
 <!-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
-<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=may+the+code+work+for+you...)](https://git.io/typing-svg)
 
