@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
 <br><br>
 
-## Hi there, I'm Harry
+## Hi there, I'm Harry..
 Data professional, eager to explore ideas and develop them into solutions 
 - 💻 currently working on __healthcare analytics__
 - :speech_balloon: ask me about: ```data modelling, data analytics, machine learning, dynamical systems, chaos theory```
