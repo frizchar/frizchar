@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=may+the+code+work+for+you...)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=700&pause=1000&color=928d59&random=true&width=435&lines=may+the+code+work+for+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=700&pause=1000&color=928d59&random=true&width=435&lines=may+the+code+be+with+you...)](https://git.io/typing-svg)
 
 ## Hi there, I'm Harry..
 Data professional, eager to explore ideas and develop them into solutions 
