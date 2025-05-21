@@ -8,7 +8,7 @@
 ## Hi there, I'm Harry..
 Data professional, eager to explore ideas and develop them into solutions 
 - 💻 currently working on __healthcare analytics__
-- :speech_balloon: ask me about: ```data modelling, data analytics, machine learning, dynamical systems, chaos theory```
+- :speech_balloon: ask me about: ```data modelling, data analytics, AI, machine learning, dynamical systems, chaos theory```
 - :mag: areas of interest in analytics: ```sales, pricing, crm, marketing, competitive, product, predictive```
 - 🛠️ tools I've worked with: ``` SQL, Python, Power BI, Tableau, SAP BusinessObjects, SAP Analysis for Office, Oracle, R, Alteryx, Excel,
 Gephi, MATLAB, Mathematica, Rapidminer, Oracle SQL Developer, PyCharm, RStudio, Jupyter, Google Colab, LaTeX, HTML, CSS, Javascript, regular expressions```
