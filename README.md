@@ -9,7 +9,7 @@
 Physics-trained data professional, eager to explore ideas and develop them into solutions 
 - 💻 currently working on __healthcare analytics__
 - :speech_balloon: ask me about: ```data modelling, data analytics, machine learning, AI, predictive analytics, demand forecasting```
-- :speech_balloon: generic scientific interests: ```physics, astrophysics, dynamical systems, chaos theory```
+- :alembic: generic scientific interests: ```physics, astrophysics, dynamical systems, chaos theory```
 - :mag: areas of interest in analytics: ```product, predictive, sales, marketing, crm, competitive, pricing```
 - 🛠️ tools I've worked with: ``` SQL, Python, Power BI, Tableau, SAP BusinessObjects, SAP Analysis for Office, Oracle, R, Alteryx, Excel,
 Gephi, MATLAB, Mathematica, Rapidminer, Oracle SQL Developer, PyCharm, RStudio, Jupyter, Google Colab, LaTeX, HTML, CSS, Javascript, regular expressions```
