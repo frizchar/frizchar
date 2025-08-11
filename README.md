@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=700&pause=1000&color=928d59&random=true&width=435&lines=may+the+source+be+with+you...)](https://git.io/typing-svg)
 
 ## Hi there, I'm Harry..
-Physics-trained data professional, eager to explore ideas and develop them into solutions 
+Data professional, eager to explore ideas and develop them into solutions 
 - 💻 currently working on __healthcare analytics__
 - :speech_balloon: ask me about: ```data modelling, data analytics, machine learning, AI, predictive analytics, demand forecasting```
 - :test_tube: generic scientific interests: ```physics, astrophysics, dynamical systems, chaos theory```
